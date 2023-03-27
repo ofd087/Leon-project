@@ -349,6 +349,7 @@ body {
     padding: 10px 15px;
     font-weight: bold;
     border-radius: 7px;
+    cursor: pointer;
 }
 
 /* portfolio end  */
