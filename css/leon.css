@@ -180,6 +180,7 @@ body {
 .landing .intro-text p {
     font-size: 19px;
     line-height: 1.8;
+    text-shadow: 4px 0 5px #2c4755;
 }
 
 
